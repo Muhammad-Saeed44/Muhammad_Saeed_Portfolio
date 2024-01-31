@@ -78,7 +78,7 @@ let resumeData = {
       "url":"https://infratechdao.com/"
     },
     {
-      "name": "HexaMultipay",
+      "name": "My Calc",
       "description": "Practice web app that Manipulate your text ==> LowerCase to UpperCase , UpperCase to LowerCase , Remove Extra Spaces , Calculator !!.",
       "imgurl": "images/calc.png",
       "url":"https://my-calc-flax.vercel.app/"
